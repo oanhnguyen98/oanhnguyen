@@ -1,6 +1,6 @@
 # oanhnguyen
 
-- Hello all, I’m @oanhnguyen98
+- 👋 Hello all, I’m @oanhnguyen98
 
 - Bachelor of Business Administration in Vietnam
 
@@ -10,4 +10,4 @@
 
 - I am looking forward to contribute and cooperate with others 
 
-- You can reach me at ngocoanh3003@gmail.com
+- 📫 You can reach me at ngocoanh3003@gmail.com
